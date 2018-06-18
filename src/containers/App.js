@@ -97,7 +97,7 @@ class App extends Component  {
 
   export default connect(mapStateToProps, mapDispatchToProps)(App);
 
-
+/*
   promise
     .then(result => result + '!')
     .then(result2 =>  {
@@ -144,4 +144,4 @@ Promise.all(urls.map(url =>
 // .then(response=>response.json())
 // .then(users =>  console.log(users));
 
-//
+*/
